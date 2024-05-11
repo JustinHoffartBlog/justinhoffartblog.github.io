@@ -34,8 +34,8 @@ const config: GatsbyConfig = {
         ],
         externalLinks: [
           {
-            name: `linkedin`,
-            url: `https://www.linkedin.com/in/ali-yildizoz/`,
+            name: `twitter`,
+            url: `https://twitter.com/`,
           },
         ],
       },
