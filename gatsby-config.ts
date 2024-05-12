@@ -35,7 +35,11 @@ const config: GatsbyConfig = {
         externalLinks: [
           {
             name: `twitter`,
-            url: `https://twitter.com/`,
+            url: `https://twitter.com/JustinHoffart35`,
+          },
+          {
+            name: `facebook`,
+            url: `https://www.facebook.com/profile.php?id=100085141748502/`,
           },
         ],
       },
